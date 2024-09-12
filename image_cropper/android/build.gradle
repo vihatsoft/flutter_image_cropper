@@ -39,7 +39,7 @@ android {
     }
     dependencies {
         // implementation 'com.github.jens-muenker:uCrop-n-Edit:3.0.6'
-        implementation 'com.github.yalantis:ucrop:2.2.9'
+       // implementation 'com.github.yalantis:ucrop:2.2.9'
         implementation 'androidx.preference:preference:1.2.1'
     }
 }
