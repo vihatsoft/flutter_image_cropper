@@ -38,7 +38,7 @@ android {
         disable 'InvalidPackage'
     }
     dependencies {
-        implementation 'com.github.jens-muenker:uCrop-n-Edit:3.0.6'
+        // implementation 'com.github.jens-muenker:uCrop-n-Edit:3.0.6'
         implementation 'androidx.preference:preference:1.2.1'
     }
 }
