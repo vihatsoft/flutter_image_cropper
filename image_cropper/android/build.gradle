@@ -31,6 +31,7 @@ android {
     compileSdkVersion 34
 
     defaultConfig {
+        multiDexEnabled true
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
