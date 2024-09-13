@@ -31,7 +31,7 @@ android {
     compileSdkVersion 34
 
     defaultConfig {
-        multiDexEnabled true
+       // multiDexEnabled true
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -40,9 +40,10 @@ android {
     }
     dependencies {
        //  implementation project(':ucrop')
-        implementation 'com.github.krokyze:ucropnedit:2.2.9'
+         implementation 'com.github.yalantis:ucrop:2.2.9'
+       // implementation 'com.github.krokyze:ucropnedit:2.2.9'
         // implementation 'com.github.jens-muenker:uCrop-n-Edit:3.0.6'
-       // implementation 'com.github.yalantis:ucrop:2.2.9'
+     
 
         implementation 'androidx.preference:preference:1.2.1'
 
