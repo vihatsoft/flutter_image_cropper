@@ -39,7 +39,6 @@ android {
         disable 'InvalidPackage'
     }
     dependencies {
-    
        //  implementation 'com.github.yalantis:ucrop:2.2.9'
        // implementation 'com.github.krokyze:ucropnedit:2.2.9'
         // implementation 'com.github.jens-muenker:uCrop-n-Edit:3.0.6'
